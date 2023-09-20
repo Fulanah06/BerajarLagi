@@ -50,7 +50,7 @@ HTML
 
        <tr style="background-color: #dde5b6;">
           <td> 1 </td>
-          <td> TOMI TRI SUJAKA </td>
+          <td> TOMI TRI SUJAKA, M.Kom </td>
           <td> 12.11.5955 </td>
           <td> 12-S1-TI-04 </td>
           <td> <img src="img/2022.JPG" height="110" width="120"> </td>
