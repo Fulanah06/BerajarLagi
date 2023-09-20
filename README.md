@@ -3,7 +3,6 @@ HTML
 --
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <title>SOAL QUIZ A TEKNOLOGI INFORMASI</title>
   <link rel="stylesheet" href="css/style.css">
@@ -15,7 +14,7 @@ HTML
 
   <tr>
     <td> <img src="img/logo.png" height="200" width="200">  </td>
-    <td><h2  style="text-align:center; margin-left: 230px;" >WELCOME TO ALASAN INTERNASIONAL UNIVERSITY
+    <td><h2  style="text-align:center; margin-left: 230px;" >WELCOME TO BUMIGORA UNIVERSITY
     </h2></td>
  
 </table>
