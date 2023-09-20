@@ -5,7 +5,6 @@ HTML
 <html lang="en">
 
 <head>
-
   <title>SOAL QUIZ A dan RPL</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
@@ -51,7 +50,6 @@ HTML
           <td style="width: 150px;"> NO TELPON </td>
         </tr>
 
-
        <tr style="background-color: #dde5b6;">
           <td> 1 </td>
           <td> TOMI TRI SUJAKA </td>
@@ -91,11 +89,9 @@ HTML
          </div>
   </div>
     </table>
-
   <div class="footer">
     Siti Nurhalima(2101020035)
   </div>
-
 </body>
 </html>
 
