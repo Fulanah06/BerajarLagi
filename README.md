@@ -3,7 +3,6 @@ HTML
 --
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <title>SOAL QUIZ A TEKNOLOGI INFORMASI</title>
   <link rel="stylesheet" href="css/style.css">
@@ -15,7 +14,7 @@ HTML
 
   <tr>
     <td> <img src="img/logo.png" height="200" width="200">  </td>
-    <td><h2  style="text-align:center; margin-left: 230px;" >WELCOME TO ALASAN INTERNASIONAL UNIVERSITY
+    <td><h2  style="text-align:center; margin-left: 230px;" >WELCOME TO BUMIGORA UNIVERSITY
     </h2></td>
  
 </table>
@@ -32,7 +31,6 @@ HTML
             <li> <a href="#HOME">Siti Nurhalima</a></li>
             <li> <a href="#HOME">2101020035<ali>
         </ul>
-        
       </div>
     </div>  
 
@@ -52,10 +50,9 @@ HTML
 
        <tr style="background-color: #dde5b6;">
           <td> 1 </td>
-          <td> TOMI TRI SUJAKA </td>
+          <td> TOMI TRI SUJAKA, M.Kom </td>
           <td> 12.11.5955 </td>
           <td> 12-S1-TI-04 </td>
-          
           <td> <img src="img/2022.JPG" height="110" width="120"> </td>
           <td> 08888888888 </td>
         </tr>
