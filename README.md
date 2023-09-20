@@ -5,7 +5,7 @@ HTML
 <html lang="en">
 
 <head>
-  <title>SOAL QUIZ A dan RPL</title>
+  <title>SOAL QUIZ A TEKNOLOGI INFORMASI</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 
