@@ -1,0 +1,18 @@
+Melakukan Code Review
+--
+Seperti yang kita tahu, GitHub merupakan platform yang ditujukan untuk bekerja secara
+kolaborasi bersama tim. Setiap anggota tim dapat melakukan penambahan dan perubahan repository yang menjadi 
+rumah utama pada pengerjaan projek. Setiap perubahan dapat dilihat berdasarkan hasil file yang diubah oleh anggota tim.
+
+Setiap perubahan yang diwakilkan dalam pull request, membuat seorang pengelola (administrator) harus memberikan review-nya terlebih dahulu.
+Dengan adanya proses review ini, administrator mampu mengomentari perubahan, menyetujui perubahan, 
+atau meminta perubahan lebih lanjut sebelum pull request digabungkan.
+
+Proses review ini lazim dilakukan oleh tim pengembangan yang peduli dengan kualitas kode perubahan. 
+Proses ini juga bisa digunakan untuk transfer ilmu dari si administrator 
+(pengelola repository) ke si pembuat pull request. Biasanya administrator
+lebih senior dari sisi skill pengembangan dibandingkan dengan si pembuat pull request.
+
+Adapun beberapa tujuan yang dicapai dari pengulasan kode (code reviews) ini adalah ketika kontributor
+lain selesai mengerjakan suatu masalah atau fitur, kontributor 
+lain dapat memeriksa kode dan mempertimbangkan beberapa pertanyaan berikut.
