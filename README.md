@@ -31,7 +31,6 @@ HTML
             <li> <a href="#HOME">Siti Nurhalima</a></li>
             <li> <a href="#HOME">2101020035<ali>
         </ul>
-        
       </div>
     </div>  
 
@@ -54,7 +53,6 @@ HTML
           <td> TOMI TRI SUJAKA </td>
           <td> 12.11.5955 </td>
           <td> 12-S1-TI-04 </td>
-          
           <td> <img src="img/2022.JPG" height="110" width="120"> </td>
           <td> 08888888888 </td>
         </tr>
